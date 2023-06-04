@@ -41,4 +41,4 @@ if (player_choice == 0 and cpu_choice == 2) or (player_choice == 1 and cpu_choic
 elif player_choice == cpu_choice:
   print("Spare")
 else:
-  print("You lose")
+  print("You lose") 
